@@ -1,0 +1,97 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Lobster&family=Roboto+Mono:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Lobster&family=Raleway:wght@900&family=Roboto+Mono:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Hurricane&family=Lobster&family=Raleway:wght@900&family=Roboto+Mono:wght@700&display=swap');
+
+h1 {
+    font-family: 'Lobster', cursive;
+    color: #000000;
+}
+
+
+
+.grid{
+
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+
+
+}
+
+.footer{
+
+    display: flex;
+    justify-content: flex-end;
+
+
+}
+
+p,h2{
+
+font-family: 'Fredoka One', cursive;    
+text-align: center;
+
+}
+
+a{
+    
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+
+}
+
+h1{
+
+    text-align: center;
+
+}
+
+body{
+
+    height: 1250px;
+    
+    }
+
+
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+
+  h3{
+
+    font-family: 'Raleway', sans-serif;
+    font-size: 120px;
+    color: white;
+
+  }
+
+  h4{
+
+    font-family: 'Hurricane', cursive;
+    font-size: 120px;
+    color: white;
+
+
+  }
+
+
+  
+  
+  
+  h1 {
+    font-size: 80px;
+    color: white;
+  }
+
+  p {
+    font-size: 40px;
+  }
